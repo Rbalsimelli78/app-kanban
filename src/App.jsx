@@ -1,0 +1,1 @@
+# App.js placeholder, será substituído por conteúdo completo após upload
